@@ -1,0 +1,14 @@
+/* External CSS */
+body {
+    background-color: lightyellow;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkred;
+    text-decoration: underline;
+}
